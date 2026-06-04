@@ -1,5 +1,7 @@
 Tears of the Kingdom: Expanded and Overhauled
 
+<img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/1873c2f0-fbde-4642-9bce-fc6fe8c11b77" />
+
 IMPORTANT NOTE: This is simply a Multicomp Patch (being a Mod that aims to grant compatibility between three or more Mods) that contains all neccessary changes for the Modpack. This is not the entire Modpack itself. You only get the actual Modpack by merging all of the constituent mods in this exact order:
 
 >Expanded and Overhauled Patch
@@ -8,6 +10,7 @@ IMPORTANT NOTE: This is simply a Multicomp Patch (being a Mod that aims to grant
 >BotW Weapon Restoration Project
 >Weapons of Legends Redux
 >Sky Islands Expansion
+
 >The Depths of History
 >Revamped Master Quest Main Dungeons
 >(Recommended) Challenge Mode x Depths of the Kingdom Comp patch
