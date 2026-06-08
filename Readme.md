@@ -4,19 +4,18 @@ Tears of the Kingdom: Expanded and Overhauled
 
 IMPORTANT NOTE: This is simply a Multicomp Patch (being a Mod that aims to grant compatibility between three or more Mods) that contains all neccessary changes for the Modpack. This is not the entire Modpack itself. You only get the actual Modpack by merging all of the constituent mods in this exact order:
 
->Expanded and Overhauled Patch
->Lynel Boss bars
->Ganon's Cursed Blade
->BotW Weapon Restoration Project
->Weapons of Legends Redux
->Sky Islands Expansion
-
->The Depths of History
->Revamped Master Quest Main Dungeons
->(Recommended) Challenge Mode x Depths of the Kingdom Comp patch
->Depths of the Kingdom
->Challenge Mode
->The Second Quest
+ Expanded and Overhauled Patch
+ Lynel Boss bars
+ Ganon's Cursed Blade
+ BotW Weapon Restoration Project
+ Weapons of Legends Redux
+ Sky Islands Expansion
+ The Depths of History
+ Revamped Master Quest Main Dungeons
+ (Recommended) Challenge Mode x Depths of the Kingdom Comp patch
+ Depths of the Kingdom
+ Challenge Mode
+ The Second Quest
 
 --------------------------------------------------Modpack Description-------------------------------------------------
 
@@ -66,8 +65,8 @@ Such changes include making Symin stop being a liar by omission and actually tel
 
 Currently supported languages:
 
->English
->Deutsch
+English
+Deutsch
 
 
 Have fun playing!
